@@ -1,2 +1,1 @@
-# springcloud-configuration
-springcloud-configuration
+# spring-cloudconfig-dc-tolls
